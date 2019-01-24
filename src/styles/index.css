@@ -1,0 +1,16 @@
+body {
+  background: red;
+}
+
+#box {
+
+  display: flex;
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  background: green;
+}
+
+:full-screen {
+  background-color: green;
+}
